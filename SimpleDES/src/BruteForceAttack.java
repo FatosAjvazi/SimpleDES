@@ -15,7 +15,7 @@ public class BruteForceAttack {
 	public static void main(String[] args){
 		
 	
-	
+	//test
 		String cipherText = "15629177698EF862D42F77E8F862B7F8E87706CB8EC72F5A62C75A6215CBCB0DC7F8B762447706CB8E2FA9779DCB4C06";
 		String cipher="";
 		for(int i =0;i!=cipherText.length();i+=2)
